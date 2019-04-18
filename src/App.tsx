@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        juice-punch test two
+        juice-punch test three
       </div>
     );
   }
