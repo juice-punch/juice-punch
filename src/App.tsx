@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        juice-punch
+        juice-punch one more check auto deploy version 1.2
       </div>
     );
   }
