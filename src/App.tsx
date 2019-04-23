@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App"> 
-        juice-punch develop checks
+        juice-punch develop checks two
       </div>
     );
   }
