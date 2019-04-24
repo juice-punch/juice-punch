@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App"> 
-        juice-punch enable waiting for CI
+        juice-punch enable waiting for CI check develop app review
       </div>
     );
   }
