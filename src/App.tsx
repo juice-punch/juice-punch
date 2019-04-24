@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App"> 
-        juice-punch new heroku repo check autodeploy master 2
+        juice-punch check merge for develop branch 
       </div>
     );
   }
