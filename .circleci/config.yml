@@ -18,9 +18,11 @@ jobs:
             - ./node_modules
 workflows:
   version: 2
-  build:
-    jobs:
-      - build
+  ci:
+  jobs:
+    - deploy:
         filters:
-          branches:
-            only: develop
+        branches:
+            only:
+            - develop
+            - master
