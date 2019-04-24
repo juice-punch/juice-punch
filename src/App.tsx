@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App"> 
-        juice-punch new heroku repo
+        juice-punch last check two
       </div>
     );
   }
